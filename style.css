@@ -1,0 +1,30 @@
+
+p {
+  color: rgb(255, 140, 0);
+}
+
+h1 {
+  color: purple;
+}
+
+hr {
+  border: none;
+  border-top: 5px solid rgb(139, 44, 60); 
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
